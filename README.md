@@ -31,3 +31,5 @@
 * [Editor Config](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig)
 * [GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
 * [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
+
+[Google Slides](https://docs.google.com/presentation/d/1AWJQojK_du5tyeREObuoUd6Asxl0ax4KIVL9mfvnPY8/edit?usp=sharing)
